@@ -23,8 +23,8 @@ While strengthening my fundamental programming skills with C and Java, I am acti
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <br>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Hardware-Deneyap_Kart-0078D7?style=flat" alt="Deneyap Kart" />
-  <img src="https://img.shields.io/badge/Tools-Vivado-orange" alt="Vivado" />
+  <img src="https://img.shields.io/badge/Deneyap_Kart-0078D7?style=flat" alt="Deneyap Kart" />
+  <img src="https://img.shields.io/badge/Vivado-orange" alt="Vivado" />
 </p>
 
 ---
