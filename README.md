@@ -7,7 +7,6 @@ While strengthening my fundamental programming skills with C and Java, I am acti
 
 ### 🚀 **Current Focus & Skills**
 
-* **Core Engineering:** Digital Design, Circuit Analysis, Signal Processing
 * **Hardware Description:** VHDL (Xilinx Vivado, Basys 3 FPGA)
 * **Programming:** C, Java, Python (Learning Pandas, NumPy, Matplotlib)
 * **Hardware:** Arduino, Raspberry Pi, Deneyap Kart, FPGA
