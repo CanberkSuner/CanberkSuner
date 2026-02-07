@@ -8,9 +8,9 @@ While strengthening my fundamental programming skills with **C** and **Java**, I
 
 ### 🚀 **Current Focus & Skills**
 
-* **Hardware Description:** VHDL (Xilinx Vivado, Basys 3 FPGA)
 * **Programming:** C, Java, Python (Learning Pandas, NumPy, Matplotlib)
-* **Hardware:** Arduino, Raspberry Pi, Deneyap Kart, FPGA
+* **Hardware Description:** VHDL (Xilinx Vivado, Basys 3 FPGA)
+* **Hardware:** Arduino, Raspberry Pi, Deneyap Card, FPGA
 
 ---
 
@@ -23,7 +23,7 @@ While strengthening my fundamental programming skills with **C** and **Java**, I
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <br>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Deneyap_Kart-0078D7?style=flat" alt="Deneyap Kart" />
+  <img src="https://img.shields.io/badge/Deneyap_Card-0078D7?style=flat" alt="Deneyap Kart" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/FPGA-red" alt="FPGA" />
 </p>
