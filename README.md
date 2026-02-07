@@ -34,7 +34,7 @@ While strengthening my fundamental programming skills with **C** and **Java**, I
 
 #### [🚗 Obstacle Detection System with FPGA](https://github.com/CanberkSuner/Obstacle-Detection-System-VHDL)
 A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
-* **Features:** Real-time distance measurement (HC-SR04), LCD & 7-Segment displays, custom Moore FSM logic.
+* **Features:** Distance measurement (HC-SR04), LCD & 7-Segment displays, custom Moore FSM logic.
 * **Optimization:** Implemented a resource-efficient counter-based division algorithm instead of hardware dividers.
 
 [![Watch the Video](https://img.youtube.com/vi/HMlnp5bxW-0/0.jpg)](https://www.youtube.com/watch?v=HMlnp5bxW-0)
