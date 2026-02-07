@@ -14,7 +14,7 @@ While strengthening my fundamental programming skills with C and Java, I am acti
 
 ---
 
-### 🛠 **Tech Stack**
+### 🛠 **Languages & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/VHDL-00599C?style=flat" alt="VHDL" />
@@ -23,11 +23,10 @@ While strengthening my fundamental programming skills with C and Java, I am acti
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <br>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Deneyap_Kart-0078D7?style=flat" alt="Deneyap Kart" />
-  <img src="https://img.shields.io/badge/Vivado-orange" alt="Vivado" />
+  <img src="https://img.shields.io/badge/Hardware-Deneyap_Kart-0078D7?style=flat" alt="Deneyap Kart" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Hardware-FPGA-red" alt="FPGA" />
 </p>
-
----
 
 ### 🏆 **Featured Project**
 
