@@ -40,12 +40,8 @@ A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
 
 ### 📊 **GitHub Stats**
 
-<p align="left">
-  <a href="https://github.com/CanberkSuner">
-    <img src="https://github-readme-stats.vercel.app/api?username=CanberkSuner&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanberkSuner&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Langs" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanberkSuner&show_icons=true&theme=dark&hide_border=true)](https://github.com/CanberkSuner)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanberkSuner&layout=compact&theme=dark&hide_border=true)](https://github.com/CanberkSuner)
 
 ### 📫 **Connect with Me**
 
