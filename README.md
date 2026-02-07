@@ -17,14 +17,14 @@ While strengthening my fundamental programming skills with **C** and **Java**, I
 ### 🛠 **Languages & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VHDL-00599C?style=flat" alt="VHDL" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/VHDL-00599C?style=flat" alt="VHDL" />
   <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Deneyap_Card-0078D7?style=flat" alt="Deneyap Kart" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/FPGA-red" alt="FPGA" />
 </p>
 
