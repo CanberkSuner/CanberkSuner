@@ -2,8 +2,7 @@
 
 I am a **2nd year Electrical and Electronics Engineering** student at **Marmara University**. I have a strong interest in dynamic fields such as **Robotics**, **Artificial Intelligence**, and **Embedded Systems**.
 
-Currently, I am improving my skills in VHDL/FPGA and learning Python for Data Analysis.
-
+While strengthening my fundamental programming skills with C and Java, I am actively learning Python, VHDL, and PLC to advance my knowledge in these areas to a professional level.
 ---
 
 ### 🚀 **Current Focus & Skills**
