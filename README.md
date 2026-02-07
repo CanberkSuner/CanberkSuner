@@ -42,18 +42,16 @@ A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
 ### 📊 **GitHub Stats**
 
 <p align="left">
-<a href="https://github.com/CanberkSuner">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CanberkSuner&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanberkSuner&layout=compact&theme=dark&hide_border=true" />
-</a>
+  <a href="https://github.com/CanberkSuner">
+    <img src="https://github-readme-stats.vercel.app/api?username=CanberkSuner&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanberkSuner&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Langs" />
+  </a>
 </p>
-
----
 
 ### 📫 **Connect with Me**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/canberksuner/" target="_blank">
+  <a href="https://www.linkedin.com/in/canberk-suner-04a669289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
