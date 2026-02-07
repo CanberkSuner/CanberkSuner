@@ -1,6 +1,6 @@
 ### Hi there, I'm Canberk! 👋
 
-I am a **2nd year Electrical and Electronics Engineering** student at **Marmara University**. I am passionate about **Embedded Systems**, **FPGA Design**, and **Hardware-Software Integration**.
+I am a **2nd year Electrical and Electronics Engineering** student at **Marmara University**. I have a strong interest in dynamic fields such as **Robotics**, **Artificial Intelligence**, and **Embedded Systems**.
 
 Currently, I am improving my skills in VHDL/FPGA and learning Python for Data Analysis.
 
@@ -11,18 +11,20 @@ Currently, I am improving my skills in VHDL/FPGA and learning Python for Data An
 * **Core Engineering:** Digital Design, Circuit Analysis, Signal Processing
 * **Hardware Description:** VHDL (Xilinx Vivado, Basys 3 FPGA)
 * **Programming:** C, Java, Python (Learning Pandas, NumPy, Matplotlib)
-* **Hardware:** Arduino, FPGA Development Boards
+* **Hardware:** Arduino, Raspberry Pi, Deneyap Kart, FPGA
 
 ---
 
 ### 🛠 **Tech Stack**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VHDL-PRO-blue" alt="VHDL" />
+  <img src="https://img.shields.io/badge/VHDL-00599C?style=flat" alt="VHDL" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FPGA-Xilinx-red" alt="FPGA" />
+  <br>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Hardware-Deneyap_Kart-0078D7?style=flat" alt="Deneyap Kart" />
   <img src="https://img.shields.io/badge/Tools-Vivado-orange" alt="Vivado" />
 </p>
 
@@ -56,4 +58,4 @@ A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
   <a href="https://www.linkedin.com/in/canberksuner/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  </p>
+</p>
