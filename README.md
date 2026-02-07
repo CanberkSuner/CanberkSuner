@@ -27,6 +27,8 @@ While strengthening my fundamental programming skills with C and Java, I am acti
   <img src="https://img.shields.io/badge/FPGA-red" alt="FPGA" />
 </p>
 
+---
+
 ### 🏆 **Featured Project**
 
 #### [🚗 Obstacle Detection System with FPGA](https://github.com/CanberkSuner/Obstacle-Detection-System-VHDL)
