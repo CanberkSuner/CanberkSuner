@@ -30,14 +30,21 @@ While strengthening my fundamental programming skills with **C** and **Java**, I
 
 ---
 
-### 🏆 **Featured Project**
+### 🏆 **Featured Projects**
 
-#### [🚗 Obstacle Detection System with FPGA](https://github.com/CanberkSuner/Obstacle-Detection-System-VHDL)
+#### 1. [🚗 Obstacle Detection System with FPGA](https://github.com/CanberkSuner/Obstacle-Detection-System-VHDL)
 A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
-* **Features:** Distance measurement (HC-SR04), LCD & 7-Segment displays, custom Moore FSM logic.
-* **Optimization:** Implemented a resource-efficient counter-based division algorithm instead of hardware dividers.
+* **Core Tech:** VHDL, Xilinx Vivado, FPGA Architecture.
+* **Key Features:** Custom Moore FSM logic, resource-efficient binary division algorithm, real-time distance tracking (HC-SR04).
+* **Hardware:** Basys 3, 7-Segment Display, Ultrasonic Sensor.
 
 [![Watch the Video](https://img.youtube.com/vi/HMlnp5bxW-0/0.jpg)](https://www.youtube.com/watch?v=HMlnp5bxW-0)
+
+#### 2. [💰 Expense Tracker System (Java & OOP)](Link-To-Your-Repo)
+A scalable personal finance application built with **Java Swing** demonstrating advanced **Object-Oriented Programming**.
+* **Core Tech:** Java SE, Swing (GUI), Polymorphism, Abstraction.
+* **Key Features:** Dual-interface (GUI & Console), dynamic memory management, and robust exception handling.
+* **Architecture:** Designed with a modular structure separating business logic (User/Expense models) from the UI layers.
 
 ---
 
