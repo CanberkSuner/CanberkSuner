@@ -40,11 +40,13 @@ A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
 
 [![Watch the Video](https://img.youtube.com/vi/HMlnp5bxW-0/0.jpg)](https://www.youtube.com/watch?v=HMlnp5bxW-0)
 
-#### 2. [💰 Expense Tracker System (Java & OOP)](https://github.com/CanberkSuner/Expense-Tracker-Java)
-A scalable personal finance application built with **Java Swing** demonstrating advanced **Object-Oriented Programming**.
-* **Core Tech:** Java SE, Swing (GUI), Polymorphism, Abstraction.
-* **Key Features:** Dual-interface (GUI & Console), dynamic memory management, and robust exception handling.
-* **Architecture:** Designed with a modular structure separating business logic (User/Expense models) from the UI layers.
+### 2. [💰 Expense Tracker System (Java & OOP)](https://github.com/CanberkSuner/Expense-Tracker-Java)
+
+An advanced financial management tool featuring **event-driven security**, **polymorphic architecture**, and **portable persistence**.
+
+* **Core Tech:** Java 21 (SE), Swing (GUI), Object Serialization (I/O).
+* **Key Engineering:** Implements a **"Dynamic Budget Guard"** algorithm to prevent overspending and **"Baseline-Shift Logic"** for real-time calculation.
+* **Highlights:** Dual-interface (GUI & Console), crash-proof validation, and a **VirusTotal verified** executable (0/64 Clean).
 
 ---
 
