@@ -40,7 +40,7 @@ A digital parking sensor system developed using **Basys 3 FPGA** and **VHDL**.
 
 [![Watch the Video](https://img.youtube.com/vi/HMlnp5bxW-0/0.jpg)](https://www.youtube.com/watch?v=HMlnp5bxW-0)
 
-### 2. [💰 Expense Tracker System (Java & OOP)](https://github.com/CanberkSuner/Expense-Tracker-Java)
+#### 2. [💰 Expense Tracker System (Java & OOP)](https://github.com/CanberkSuner/Expense-Tracker-Java)
 
 An advanced financial management tool featuring **event-driven security**, **polymorphic architecture**, and **portable persistence**.
 
